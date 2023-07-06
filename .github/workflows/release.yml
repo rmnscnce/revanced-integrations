@@ -4,10 +4,12 @@ on:
   workflow_dispatch:
   push:
     branches:
+      - rvxperiments
       - main
       - dev
   pull_request:
     branches:
+      - rvxperiments
       - main
       - dev
 
