@@ -30,6 +30,7 @@ public enum SettingsEnum {
     ENABLE_DISMISS_QUEUE("revanced_enable_dismiss_queue", BOOLEAN, TRUE, true),
     ENABLE_FORCE_MINIMIZED_PLAYER("revanced_enable_force_minimized_player", BOOLEAN, TRUE),
     ENABLE_LANDSCAPE_MODE("revanced_enable_landscape_mode", BOOLEAN, TRUE, true),
+    ENABLE_LIVE_LYRICS("revanced_enable_live_lyrics", BOOLEAN, FALSE, true),
     ENABLE_NEW_LAYOUT("revanced_enable_new_layout", BOOLEAN, FALSE, true),
     ENABLE_OLD_STYLE_MINI_PLAYER("revanced_enable_old_style_mini_player", BOOLEAN, FALSE, true),
     ENABLE_SLEEP_TIMER("revanced_enable_sleep_timer", BOOLEAN, TRUE, true),
